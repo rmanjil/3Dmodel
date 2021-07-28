@@ -1,0 +1,230 @@
+# Blender MTL File: 'None'
+# Material Count: 19
+
+newmtl Dress096_pants
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\胖次.png
+map_d Kotori Itsuka\\PMX\\2\\胖次.png
+
+newmtl Face007_EyeL_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\Face007_EyeL (Instance)_(-334338).png
+map_d Kotori Itsuka\\PMX\\2\\Face007_EyeL (Instance)_(-334338).png
+
+newmtl Face007_EyeR_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\Face007_EyeR (Instance)_(-334340).png
+map_d Kotori Itsuka\\PMX\\2\\Face007_EyeR (Instance)_(-334340).png
+
+newmtl Face007_Mayu_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\Face007_Mayu (Instance)_(-334344).png
+map_d Kotori Itsuka\\PMX\\2\\Face007_Mayu (Instance)_(-334344).png
+
+newmtl Face007_Mouth_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\Face007_Mouth (Instance)_(-334350).png
+map_d Kotori Itsuka\\PMX\\2\\Face007_Mouth (Instance)_(-334350).png
+
+newmtl Face007_SkinAlpha_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\Face007_SkinAlpha (Instance)_(-334346).png
+map_d Kotori Itsuka\\PMX\\2\\Face007_SkinAlpha (Instance)_(-334346).png
+
+newmtl Face007_Skin_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\脸.png
+map_d Kotori Itsuka\\PMX\\2\\脸.png
+
+newmtl Hair_R102-HairR_1_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\发型.png
+map_d Kotori Itsuka\\PMX\\2\\发型.png
+
+newmtl Hair_R102-HairR_1_(Instance).001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\发型.png
+map_d Kotori Itsuka\\PMX\\2\\发型.png
+
+newmtl Hair_R102-HairR_1_(Instance).002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\发型.png
+map_d Kotori Itsuka\\PMX\\2\\发型.png
+
+newmtl Hair_R102-HairR_1_(Instance).003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\发型.png
+map_d Kotori Itsuka\\PMX\\2\\发型.png
+
+newmtl Hair_R102-HairR_1_(Instance).004
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\发型.png
+map_d Kotori Itsuka\\PMX\\2\\发型.png
+
+newmtl Tスタンス素体_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\服装.png
+map_d Kotori Itsuka\\PMX\\2\\服装.png
+
+newmtl Tスタンス素体_(Instance).001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\服装.png
+map_d Kotori Itsuka\\PMX\\2\\服装.png
+
+newmtl Tスタンス素体_(Instance).002
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\服装.png
+map_d Kotori Itsuka\\PMX\\2\\服装.png
+
+newmtl Tスタンス素体_(Instance).003
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\服装.png
+map_d Kotori Itsuka\\PMX\\2\\服装.png
+
+newmtl Tスタンス素体_(Instance).004
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\服装.png
+map_d Kotori Itsuka\\PMX\\2\\服装.png
+
+newmtl kupa_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\kupa (Instance)_(-23196).png
+map_d Kotori Itsuka\\PMX\\2\\kupa (Instance)_(-23196).png
+
+newmtl skin_(Instance)
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Kotori Itsuka\\PMX\\2\\身体.png
+map_d Kotori Itsuka\\PMX\\2\\身体.png
